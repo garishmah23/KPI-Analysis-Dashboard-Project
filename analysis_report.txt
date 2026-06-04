@@ -1,0 +1,30 @@
+==================================================
+E-COMMERCE KPI ANALYSIS REPORT
+==================================================
+
+KEY PERFORMANCE INDICATORS
+------------------------------
+Total Sales: ₹310,700
+Total Profit: ₹71,500
+Total Orders: 30
+Average Order Value: ₹10356.67
+
+SALES BY REGION
+------------------------------
+East: ₹70,400
+North: ₹87,300
+South: ₹72,900
+West: ₹80,100
+
+SALES BY CATEGORY
+------------------------------
+Clothing: ₹60,600
+Electronics: ₹164,500
+Furniture: ₹85,600
+
+BUSINESS INSIGHTS
+------------------------------
+Best Performing Region: North
+Best Selling Category: Electronics
+Total Revenue Generated: ₹310,700
+Total Profit Earned: ₹71,500
